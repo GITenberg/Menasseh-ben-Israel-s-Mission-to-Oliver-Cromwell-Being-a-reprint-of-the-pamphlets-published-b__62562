@@ -1,0 +1,46 @@
+_repo: Menasseh-ben-Israel-s-Mission-to-Oliver-Cromwell-Being-a-reprint-of-the-pamphlets-published-b__62562
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Manasseh ben Israel
+    aliases:
+    - Soeiro, Manuel Dias
+    - Menasseh ben Joseph ben Israel
+    - מנשה בן ישראל
+    - Ben-Israel, Menasseh
+    birthdate: 1604
+    deathdate: 1657
+    gutenberg_agent_id: '52007'
+    url: http://www.gutenberg.org/2009/agents/52007
+    wikipedia: https://en.wikipedia.org/wiki/Menasseh_Ben_Israel
+  editor:
+    agent_name: Wolf, Lucien
+    birthdate: 1857
+    deathdate: 1930
+    gutenberg_agent_id: '35195'
+    url: http://www.gutenberg.org/2009/agents/35195
+    wikipedia: https://en.wikipedia.org/wiki/Lucien_Wolf
+description: ''
+gutenberg_issued: '2020-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62562'
+  lccn: 02009826
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Jews -- Great Britain'
+- GITenberg
+tableOfContents: 'Introduction: The return of the Jews to England -- "The hope of
+  Israel, written by Menasseh ben Israel" (1652) -- "To his Highnesse the Lord protector
+  of the Common-wealth of England, Scotland and Ireland, the humble addresses of Menasseh
+  ben Israel" (1655) -- "Vindiciæ Judæorum, or, A letter in answer to certain questions
+  propounded by a noble and learned gentleman, wherein all objections are candidly,
+  and yet fully cleared, by Rabbi Menasseh ben Israel" (1656).'
+title: "Menasseh ben Israel's Mission to Oliver Cromwell\r\nBeing a reprint of the\
+  \ pamphlets published by Menasseh ben Israel to promote the re-admission of the\
+  \ Jews to England, 1649-1656"
+url: http://www.gutenberg.org/ebooks/62562
