@@ -1,5 +1,8 @@
 _repo: Menasseh-ben-Israel-s-Mission-to-Oliver-Cromwell-Being-a-reprint-of-the-pamphlets-published-b__62562
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62562-h/images/cover.jpg
 creator:
   author:
     agent_name: Manasseh ben Israel
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35195
     wikipedia: https://en.wikipedia.org/wiki/Lucien_Wolf
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62562#Menasseh-ben-Israel-s-Mission-to-Oliver-Cromwell-Being-a-reprint-of-the-pamphlets-published-b_
 gutenberg_issued: '2020-07-05'
 gutenberg_type: Text
 identifiers:
